@@ -84,6 +84,7 @@
         <module>fastjson</module>
         <module>druid</module>
         <module>hbase</module>
+        <module>jdk-process-handle</module>
     </modules>
 
     <dependencies>
@@ -350,6 +351,11 @@
         <dependency>
             <groupId>com.navercorp.pinpoint</groupId>
             <artifactId>pinpoint-hbase-plugin</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.navercorp.pinpoint</groupId>
+            <artifactId>pinpoint-jdk-process-handle-plugin</artifactId>
             <version>${project.version}</version>
         </dependency>
     </dependencies>

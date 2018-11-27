@@ -127,7 +127,7 @@
         <plugin.pmd.version>3.9.0</plugin.pmd.version>
 
         <plugin.enforcer.version>3.0.0-M2</plugin.enforcer.version>
-        <plugin.animal-sniffer.version>1.16</plugin.animal-sniffer.version>
+        <plugin.animal-sniffer.version>1.17</plugin.animal-sniffer.version>
 
         <sniffer.artifactid>java16</sniffer.artifactid>
     </properties>
